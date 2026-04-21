@@ -1,5 +1,3 @@
-# chirushi.github.io
-[NEURAL_MAP v1.0.html](https://github.com/user-attachments/files/26926011/NEURAL_MAP.v1.0.html)
 <!DOCTYPE html>
 <html lang="fr">
 <head>
